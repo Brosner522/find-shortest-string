@@ -1,4 +1,4 @@
-# Day 5: Find Shortest String
+## Day 5: Find Shortest String
 
 **Fork and then clone me!**
 
